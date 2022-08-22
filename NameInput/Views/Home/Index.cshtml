@@ -1,11 +1,12 @@
 ﻿@model FullNameViewModel
 
 @using (Html.BeginForm()) {
-    @Html.LabelFor(x => x.FirstName)
+    @Html.LabelFor(x => x.FirstName, new  { style = "margin-right: 10px;" })
     @Html.TextBoxFor(x => x.FirstName)
     <br />
-    @Html.LabelFor(x => x.LastName)
+    <br />
+    @Html.LabelFor(x => x.LastName, new  { style = "margin-right: 10px;" })
     @Html.TextBoxFor(x => x.LastName)
 
-    <input type="submit" value="Submit name"  />
+    <input type="submit" value="Submit Name"  />
 }
