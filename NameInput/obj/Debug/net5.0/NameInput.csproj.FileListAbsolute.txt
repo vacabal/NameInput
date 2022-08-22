@@ -1,0 +1,8 @@
+C:\Users\boon\OneDrive\NameInput\NameInput\obj\Debug\net5.0\NameInput.csproj.AssemblyReference.cache
+C:\Users\boon\OneDrive\NameInput\NameInput\obj\Debug\net5.0\NameInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boon\OneDrive\NameInput\NameInput\obj\Debug\net5.0\NameInput.AssemblyInfoInputs.cache
+C:\Users\boon\OneDrive\NameInput\NameInput\obj\Debug\net5.0\NameInput.AssemblyInfo.cs
+C:\Users\boon\OneDrive\NameInput\NameInput\obj\Debug\net5.0\NameInput.csproj.CoreCompileInputs.cache
+C:\Users\boon\OneDrive\NameInput\NameInput\obj\Debug\net5.0\NameInput.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\boon\OneDrive\NameInput\NameInput\obj\Debug\net5.0\NameInput.RazorAssemblyInfo.cache
+C:\Users\boon\OneDrive\NameInput\NameInput\obj\Debug\net5.0\NameInput.RazorAssemblyInfo.cs
